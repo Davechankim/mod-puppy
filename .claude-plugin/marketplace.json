@@ -1,0 +1,5 @@
+{
+  "name": "mod-puppy",
+  "owner": { "name": "Davechankim" },
+  "plugins": [{ "name": "session-pup", "source": "./" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "session-pup",
+  "version": "0.2.0",
+  "description": "A band above the prompt: this session's name, its main and current work, model, effort, context, progress, and a running puppy",
+  "types": "./types/index.d.ts"
+}
